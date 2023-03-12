@@ -1,0 +1,18 @@
+.SampleNamespace\.HelloPCF {
+    font-size: 1.5em;
+}
+
+div {
+    background-color: rgb(33, 48, 87);
+    color: rgb(194, 204, 228);
+}
+
+button {
+    color: rgb(33, 48, 87);
+    background-color: rgb(194, 204, 228);
+}
+
+#MessageStyle {
+    color: rgb(194, 204, 228);
+    lighting-color: aqua;
+}
